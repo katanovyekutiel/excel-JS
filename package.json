@@ -1,0 +1,24 @@
+{
+  "name": "excel-course",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katanovyekutiel/excel-JS.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Yekutiel Katanov <katanov770@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katanovyekutiel/excel-JS/issues"
+  },
+  "homepage": "https://github.com/katanovyekutiel/excel-JS#readme"
+}
